@@ -1,0 +1,104 @@
+1664236385656	geckodriver	INFO	Listening on 127.0.0.1:49549
+1664236388109	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49550" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOS8Ms5"
+1664236394798	Marionette	INFO	Marionette enabled
+1664236394842	Marionette	INFO	Listening on port 49559
+Read port: 49559
+Read port: 49559
+WebDriver BiDi listening on ws://127.0.0.1:49550
+1664236400747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOS8Ms5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49550/devtools/browser/6af9c26f-c05a-4ab6-8cf9-78f70da873f7
+1664236421597	Marionette	INFO	Stopped listening on port 49559
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664244057070	geckodriver	INFO	Listening on 127.0.0.1:50664
+1664244059075	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50665" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileK9Yc91"
+1664244063268	Marionette	INFO	Marionette enabled
+1664244063316	Marionette	INFO	Listening on port 50675
+Read port: 50675
+WebDriver BiDi listening on ws://127.0.0.1:50665
+1664244064618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileK9Yc91\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50665/devtools/browser/c224dccc-4153-4292-be2d-4869444e64bf
+1664244106501	Marionette	INFO	Stopped listening on port 50675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664244237084	geckodriver	INFO	Listening on 127.0.0.1:50792
+1664244238606	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepc4u1p"
+1664244241055	Marionette	INFO	Marionette enabled
+1664244241061	Marionette	INFO	Listening on port 50802
+Read port: 50802
+WebDriver BiDi listening on ws://127.0.0.1:50793
+1664244241225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepc4u1p\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+DevTools listening on ws://127.0.0.1:50793/devtools/browser/33bffc0e-1e8c-439c-b279-e4f1ff98eb83
+1664244304909	Marionette	INFO	Stopped listening on port 50802
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664282282287	geckodriver	INFO	Listening on 127.0.0.1:49339
+1664282283864	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6N0Gwl"
+1664282290392	Marionette	INFO	Marionette enabled
+1664282290558	Marionette	INFO	Listening on port 49349
+Read port: 49349
+Read port: 49349
+Read port: 49349
+WebDriver BiDi listening on ws://127.0.0.1:49340
+1664282297951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6N0Gwl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49340/devtools/browser/ac6b8804-5b7e-42ca-b8a4-5221a4eb3743
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1664282398410	Marionette	INFO	Stopped listening on port 49349
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664282564376	geckodriver	INFO	Listening on 127.0.0.1:49436
+1664282565998	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileJKgbGh"
+1664282568724	Marionette	INFO	Marionette enabled
+1664282568736	Marionette	INFO	Listening on port 49446
+Read port: 
+1664282568824	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 49446
+WebDriver BiDi listening on ws://127.0.0.1:49437
+1664282569402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileJKgbGh\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+DevTools listening on ws://127.0.0.1:49437/devtools/browser/12530c39-2e3b-4db1-b335-f8932f54f1a1
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 2549 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664282621674	Marionette	INFO	Stopped listening on port 49446
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664282637450	geckodriver	INFO	Listening on 127.0.0.1:49502
+1664282639275	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0yk8eP"
+1664282642727	Marionette	INFO	Marionette enabled
+1664282642734	Marionette	INFO	Listening on port 49512
+Read port: 49512
+WebDriver BiDi listening on ws://127.0.0.1:49503
+1664282642894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0yk8eP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49503/devtools/browser/cc1ad786-85a1-4de7-856f-b2217f4f803d
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 6315 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1664282715080	Marionette	INFO	Stopped listening on port 49512
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664282931564	geckodriver	INFO	Listening on 127.0.0.1:49630
+1664282933564	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0JRAXV"
+1664282934224	Marionette	INFO	Marionette enabled
+1664282934230	Marionette	INFO	Listening on port 49640
+Read port: 49640
+WebDriver BiDi listening on ws://127.0.0.1:49631
+1664282934395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0JRAXV\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 766))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+DevTools listening on ws://127.0.0.1:49631/devtools/browser/3fd63a99-2716-4a25-b06c-956780478ac1
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 7280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664282963442	Marionette	INFO	Stopped listening on port 49640
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+[Parent 4972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
